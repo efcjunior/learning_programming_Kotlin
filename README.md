@@ -1,4 +1,4 @@
-![Open Source Society University (OSSU)](http://i.imgur.com/kYYCXtC.png)
+![Open Source Society University (OSSU)](https://kotlinlang.org/assets/images/twitter-card/kotlin_800x320.png)
 
 <h3 align="center">Open Source Society University</h3>
 <p align="center">
