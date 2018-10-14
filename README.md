@@ -2,7 +2,7 @@
 
 <h3 align="center">Learning Programming in Kotlin Guide</h3>
 <p align="center">
-  Path to a free self-taught education in Kotlin Programming
+  Path to a free self-taught education
 </p>
 <!--
 <p align="center">
