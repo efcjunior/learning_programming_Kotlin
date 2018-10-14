@@ -1,8 +1,8 @@
-![Learning Programming with Kotlin Guide](https://kotlinlang.org/assets/images/twitter-card/kotlin_800x320.png)
+![Learning Programming in Kotlin Guide](https://kotlinlang.org/assets/images/twitter-card/kotlin_800x320.png)
 
-<h3 align="center">Learning Programming with Kotlin Guide</h3>
+<h3 align="center">Learning Programming in Kotlin Guide</h3>
 <p align="center">
-  Path to a free self-taught education in Learning Programming
+  Path to a free self-taught education in Kotlin Programming
 </p>
 <!--
 <p align="center">
