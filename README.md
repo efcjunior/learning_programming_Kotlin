@@ -1,9 +1,10 @@
-![Open Source Society University (OSSU)](https://kotlinlang.org/assets/images/twitter-card/kotlin_800x320.png)
+![Learning Programming with Kotlin Guide](https://kotlinlang.org/assets/images/twitter-card/kotlin_800x320.png)
 
-<h3 align="center">Open Source Society University</h3>
+<h3 align="center">Learning Programming with Kotlin Guide</h3>
 <p align="center">
-  Path to a free self-taught education in Computer Science!
+  Path to a free self-taught education in Learning Programming
 </p>
+<!--
 <p align="center">
   <a href="https://github.com/sindresorhus/awesome">
     <img alt="Awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg">
@@ -15,6 +16,7 @@
 	<img alt="Contribute with OSSU on Patreon" src="https://img.shields.io/badge/Patreon-contribute-yellow.svg">
   </a>
 </p>
+-->
 
 # Contents
 
