@@ -22,8 +22,7 @@
 
 - [Summary](#summary)
 - [Fundamentals of Programming](#Fundamentals-of-Programming)
-  - [Values and types](#Values-and-types)
-  - [Variables](#Variables)
+  - [Variables, Basic Types, and Arrays](#Variables-Basic-Types-and-Arrays)
 - [References](#references)
 
 # Summary
